@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sameer919
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... diploma
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Software Development Engineer passionate about Python and web development.
+- Experienced in crafting efficient solutions and building dynamic web applications.
 
 <!---
 Sameer919/Sameer919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
